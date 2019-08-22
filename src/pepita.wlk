@@ -112,3 +112,12 @@ object canelones {
 		return joules	
 	}
 }
+
+object roque {
+	method entrenar () {
+		pepita.vola(10)
+		pepita.come(alpiste)
+		pepita.vola(5)
+		pepita.haceLoQueQuieras()
+	}
+}
